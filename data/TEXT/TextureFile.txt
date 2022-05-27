@@ -6,7 +6,7 @@ SCRIPT
 #==============================================================================
 # テクスチャの最大数
 #==============================================================================
-NUM_TEXTURE = 18
+NUM_TEXTURE = 22
 
 #==============================================================================
 # テクスチャの情報
@@ -30,4 +30,8 @@ TEXTURE_FILENAME = data/TEXTURE/status_logo.png			#15
 TEXTURE_FILENAME = data/TEXTURE/attack_logo.png			#16
 TEXTURE_FILENAME = data/TEXTURE/ex000.png				#17
 TEXTURE_FILENAME = data/TEXTURE/Timer.png				#18
+TEXTURE_FILENAME = data/TEXTURE/New_letter.png			#19
+TEXTURE_FILENAME = data/TEXTURE/Lode_letter.png			#20
+TEXTURE_FILENAME = data/TEXTURE/Tutorial_letter.png		#21
+TEXTURE_FILENAME = data/TEXTURE/Result_letter.png		#22
 END_SCRIPT
